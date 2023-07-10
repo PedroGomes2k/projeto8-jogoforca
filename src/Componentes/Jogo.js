@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Letras from "./Letras";
 import { styled } from "styled-components";
-import palavras from "./Palavras";
+import palavras from "../palavras"
 
 export default function Jogo() {
 
