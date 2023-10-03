@@ -10,7 +10,7 @@ export default function Jogo() {
     const [line, setLine] = useState("")
 
     
-
+    // teste
 
     function ChoseWord() {
         const word = Math.floor(Math.random() * palavras.length)
